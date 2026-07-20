@@ -1,0 +1,15 @@
+{
+  "name": "datamask-marketplace",
+  "owner": {
+    "name": "Shaunak Aswani"
+  },
+  "plugins": [
+    {
+      "name": "datamask",
+      "source": "./",
+      "description": "Anonymise client-identifying information (entity names, individual names, addresses, emails, phone numbers, registration numbers) in Word, Excel, PowerPoint, and PDF documents before sharing them externally. Can build a known-entities list directly from a Statement of Work.",
+      "version": "1.0.0",
+      "category": "productivity"
+    }
+  ]
+}
