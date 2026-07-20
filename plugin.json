@@ -1,0 +1,8 @@
+{
+  "name": "datamask",
+  "version": "1.0.0",
+  "description": "Anonymise client-identifying information (entity names, individual names, addresses, emails, phone numbers, registration numbers) in Word, Excel, PowerPoint, and PDF documents before sharing them externally. Includes a scan -> human review -> apply workflow, a known-entities CSV you can build directly from a Statement of Work, and a Streamlit web app for reviewing and applying masks interactively.",
+  "author": {
+    "name": "Shaunak Aswani"
+  }
+}
